@@ -46,7 +46,7 @@ impl TempField{
             
             
             let C = 2500.0;
-            let D  = 0.2;
+            let D  = 0.001;
             let DT = D*C;
             let sb = 5.67e-8;
             let time_step=0.02;
