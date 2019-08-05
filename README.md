@@ -1,10 +1,10 @@
-#Nannou Daisy World 
+# Nannou Daisy World 
 
 This is a project to play around with Nannou, the creative coding framework for Rust. It implements a 2D version of Daisy World, a model of Biosphere and Ecosphere coupling devised by James Lovelock. 
 
-
-
 ## Daisy World 
+
+![screenshot.png](screenshot.png)
 
 Daisy World takes place on a planet that has only one species of life, a Daisy. Daises have one genetic trait, their albedo, which determines who dark or light the Daisy is. This in turn determines how much sunlight the daises absorb and reflect. 
 
